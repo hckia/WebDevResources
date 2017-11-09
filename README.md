@@ -258,7 +258,6 @@
  # Outsourced:
  ## Logos:
  
- * [Lgo Venture](https://logoventure.us/39-logo-design/?src=google-ppc-us-search&network=g&place=&kw=logo%20design%20services&matchtype=b&adpos=1t1)
  * [Fiverr](https://fiverr.com)
 
 # WordPress:
