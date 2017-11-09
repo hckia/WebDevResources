@@ -255,13 +255,24 @@
  
  * [Socket IO](https://socket.io/) (live update changes, good for intant refreshless chat apps)
  
- # Outsourced:
- ## Logos:
  
- * [Fiverr](https://fiverr.com)
+ # Random: Frameworks, Design, and other things
+ 
+ ## Photoshop and GIMP:
+ 
+ * [Fiverr to outsource](https://fiverr.com)
+ * Free fonts
+ .. 1. [1001 Fonts](www.1001freefonts.com)
+ .. 2. [Urban Fonts](https://www.urbanfonts.com/fonts/top-100-fonts.htm)
+ .. 3. [Brushez](https://brushez.com/fonts)
+ * [Vectors if you want to purchase](https://www.vectorstock.com/royalty-free-vector/abstract-tech-corporate-stripes-background-vector-12504060)
 
-# WordPress:
+# WordPress Related sadness:
 
 ## Elementro Pro:
 
 * [Elementor third party plugins](https://elementor.com/third-party-addon-plugins/)
+
+## Image Optimization
+
+* [Optimize images for web](http://awarecreativesolutions.com/optimize-images-for-web)
