@@ -50,6 +50,7 @@
 ## Misc:
   * [whatruns](https://www.whatruns.com/) (Chrome extension to check browser compatibility of your webapps)
   * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) (Chrome extension that makes JSON files readable)
+  * [HTML Wire Frames](http://bradfrost.com/blog/post/html-wireframes/)
  
 ## CSS:
   ### CSS Snippets:
@@ -154,6 +155,8 @@
    
    
 ## Javascript
+ ### Syntax & Terminology
+  * [Template Literals (backticks)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals]
  ### Libraries:
   * [ParticlesJS](http://vincentgarreau.com/particles.js/) (Particles for Javascript)
   * [Three.js](https://threejs.org/) (3D objects in Javascript)
@@ -266,6 +269,10 @@
  .. 2. [Urban Fonts](https://www.urbanfonts.com/fonts/top-100-fonts.htm)
  .. 3. [Brushez](https://brushez.com/fonts)
  * [Vectors if you want to purchase](https://www.vectorstock.com/royalty-free-vector/abstract-tech-corporate-stripes-background-vector-12504060)
+ * [Design pickle - monthly subscription for unlimited graphic design](designpickle.com)
+ 
+## Footage
+* [Monthly Subscription for footage](https://slide.ly/promo)
 
 # WordPress Related sadness:
 
