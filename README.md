@@ -276,3 +276,10 @@
 ## Image Optimization
 
 * [Optimize images for web](http://awarecreativesolutions.com/optimize-images-for-web)
+
+## Caching
+* [W3 Total Cache Settings (JSON file)](http://www.onlinemediamasters.com/w3-total-cache-settings/)
+* [Fixing Browser Cache Warning WordPress - NGINX and Apache](https://kinsta.com/blog/leverage-browser-caching/)
+
+## Minification
+* [Combine assets](https://kinsta.com/knowledgebase/combine-external-css/)
