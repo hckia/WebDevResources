@@ -261,7 +261,7 @@
  
  # Random: Frameworks, Design, and other things
  
- ## Photoshop and GIMP:
+ ## Photoshop, GIMP, Icons:
  
  * [Fiverr to outsource](https://fiverr.com)
  * Free fonts
@@ -270,6 +270,7 @@
  .. 3. [Brushez](https://brushez.com/fonts)
  * [Vectors if you want to purchase](https://www.vectorstock.com/royalty-free-vector/abstract-tech-corporate-stripes-background-vector-12504060)
  * [Design pickle - monthly subscription for unlimited graphic design](designpickle.com)
+ * [Icon Finder](https://www.iconfinder.com)
  
 ## Footage
 * [Monthly Subscription for footage](https://slide.ly/promo)
