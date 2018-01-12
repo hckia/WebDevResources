@@ -149,6 +149,7 @@
    * [UIkit](https://getuikit.com/) (Framework)
    * [Bootsrap](http://getbootstrap.com/) (Framework)
    * [Zurb Foundation](https://foundation.zurb.com/) (Framework)
+   * [Showdown JS - markdown to HTML](https://github.com/showdownjs/showdown)
    
    
    
