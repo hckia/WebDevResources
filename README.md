@@ -211,6 +211,7 @@
   * [Handsontable](https://handsontable.com/examples.html?manual-resize&manual-move&conditional-formatting&context-menu&filters&dropdown-menu&headers) (Javascript spreadsheet to format and manipulate your data)
   * [WebGL Earth](http://www.webglearth.org/) (3D earth object)
   * [accessibilityJS](https://github.com/github/accessibilityjs) (Discover client-side accessibility errors and fix them)
+  * [Socket IO](https://socket.io/) (live update changes, good for intant refreshless chat apps)
   
   ### Performance Tricks:
   * [Refreshless Slider](https://refreshless.com/nouislider/)
@@ -254,12 +255,6 @@
  * [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know)
  * [cosmos: every data structure and algorithm a programmer should know](https://github.com/OpenGenus/cosmos)
  
- # Backend:
- ## Libraries:
- 
- * [Socket IO](https://socket.io/) (live update changes, good for intant refreshless chat apps)
- 
- 
  # Random: Frameworks, Design, and other things
  
  ## Photoshop, GIMP, Icons:
@@ -292,3 +287,7 @@
 
 ## Minification
 * [Combine assets](https://kinsta.com/knowledgebase/combine-external-css/)
+
+##MISC
+
+* [cacoo - Cloud-based diagrams, the easy way.](https://cacoo.com/)
