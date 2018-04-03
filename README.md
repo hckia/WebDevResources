@@ -51,6 +51,7 @@
   * [whatruns](https://www.whatruns.com/) (Chrome extension to check browser compatibility of your webapps)
   * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) (Chrome extension that makes JSON files readable)
   * [HTML Wire Frames](http://bradfrost.com/blog/post/html-wireframes/)
+  * [jq - sed for JSON, or JSON filters](https://stedolan.github.io/jq/)
  
 ## CSS:
   ### CSS Snippets:
